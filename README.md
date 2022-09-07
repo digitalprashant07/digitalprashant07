@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://digitalprashant.xyz/](https://digitalprashant.xyz/)
 
-- 💬 Ask me about **react, Python & Mongodb**
+- 💬 Ask me about **Reactjs, Python & Mongodb**
 
 - 📫 How to reach me **digitlprashant07@gmail.com**
 
