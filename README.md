@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Clone Projects**
 
-- 👨‍💻 All of my projects are available at [https://digitalprashant.xyz/](https://digitalprashant.xyz/)
+- 👨‍💻 All of my projects are available at [https://github.com/digitalprashant07](https://github.com/digitalprashant07)
 
 - 📝 I regularly write articles on [https://digitalprashant.xyz/](https://digitalprashant.xyz/)
 
