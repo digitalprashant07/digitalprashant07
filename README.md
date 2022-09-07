@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Reactjs, Python & Mongodb**
 
-- 📫 How to reach me **digitlprashant07@gmail.com**
+- 📫 How to reach me **digitlprashant07@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
