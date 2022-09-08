@@ -1,7 +1,7 @@
 ![2000_600px](https://user-images.githubusercontent.com/107924807/188713743-78fb3ff0-aa23-4282-98f9-2e41596109ff.png)
 
 <h1 align="center">Hi 👋, I'm Prashant Kumar Maurya</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalprashant07&label=Profile%20views&color=0e75b6&style=flat" alt="digitalprashant07" /> </p>
 
