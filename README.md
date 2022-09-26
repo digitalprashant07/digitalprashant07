@@ -1,5 +1,5 @@
-![2000_600px](https://user-imag![Uploading 2000_600px.gif…]()
-es.githubusercontent.com/107924807/188713743-78fb3ff0-aa23-4282-98f9-2e41596109ff.png)
+![2000_600px](https://user-images.githubusercontent.com/107924807/192204031-5b424444-349a-44c7-bf17-96a4067ca365.gif)
+
 
 <h1 align="center">Hi 👋, I'm Prashant Kumar Maurya</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
