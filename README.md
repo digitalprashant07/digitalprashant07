@@ -1,5 +1,4 @@
-![shutterstock_download](https://user-images.githubusercontent.com/107924807/219613916-1cc944aa-8e91-41cd-bde2-67eca7efb573.jpg)
-
+![shutterstock_download (1)](https://user-images.githubusercontent.com/107924807/219614259-a5b921f4-9487-4bc2-9612-c243a4049aed.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Prashant Kumar Maurya</h1>
