@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 # 💫 About Me:
-🔭 I’m currently working on Clone Projects<br><br>🌱 I’m currently learning React , Mongodb (Api)<br><br>👯 I’m looking to collaborate on Clone Projects<br><br>👨‍💻 All of my projects are available at https://github.com/digitalprashant07<br><br>📝 I regularly write articles on https://digitalprashant.xyz/<br><br>💬 Ask me about React, Python & Mongodb<br><br>📫 How to reach me digitlprashant07@gmail.com<br><br>⚡ Fun fact Work With Fun
+🔭 I’m currently working on Life navigator Admin Panel<br><br>🌱 I’m currently learning React , Mongodb (Api)<br><br>👯 I’m looking to collaborate on Clone Projects<br><br>👨‍💻 All of my projects are available at https://github.com/digitalprashant07<br><br>📝 I regularly write articles on https://digitalprashant.xyz/<br><br>💬 Ask me about React, Python & Mongodb<br><br>📫 How to reach me digitlprashant07@gmail.com<br><br>⚡ Fun fact Work With Fun
 
 
 ## 🌐 Socials:
