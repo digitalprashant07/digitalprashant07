@@ -18,25 +18,6 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/digitalprashant07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/digitalprashant07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/digitalprashant07/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/digitalprashant07/) 
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Prashant Maurya and I'm a Frontend developer from Noida.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning MERN Stack<br>🎯 Goals: Full Stack Devloper<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -62,10 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=digitalprashant07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=digitalprashant07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/digitalprashant07/digitalprashant07/output/snake.svg" alt="Snake animation" />
 
 ###
 
